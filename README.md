@@ -5,4 +5,4 @@ To Do List Odevi
 
 <h2> Ekran Gifi</h2>
 
-![] (ekran.gif)
+![](ekran.gif)
